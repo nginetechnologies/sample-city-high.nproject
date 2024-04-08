@@ -1,0 +1,33 @@
+{
+    "513d13e1-cc93-4257-bb85-992268d23032": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "City High",
+        "thumbnail": "9834f334-179e-a24a-8606-b6a285267b49",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "9834f334-179e-a24a-8606-b6a285267b49": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/City_High_Thumb.tex.nasset"
+    },
+    "9947c1d7-1ab5-446b-ada0-34602322451e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/City High.scene.nasset"
+    },
+    "e544d8df-96c3-de0b-25fa-a832b333c13c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Chracters/2D Platformer.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "f0ed08d8-31e1-4643-7905-35dc8ddc4442": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "guid": "f0ed08d8-31e1-4643-7905-35dc8ddc4442"
+}
